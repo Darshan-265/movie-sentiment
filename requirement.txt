@@ -1,0 +1,6 @@
+sklearn
+pandas
+nltk
+re
+Dataset
+joblib
