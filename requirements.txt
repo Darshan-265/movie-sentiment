@@ -1,6 +1,7 @@
-sklearn
+scikit-learn
 pandas
 nltk
 re
 Dataset
 joblib
+
