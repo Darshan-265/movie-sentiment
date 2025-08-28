@@ -3,5 +3,6 @@ pandas
 nltk
 Dataset
 joblib
+streamlit
 
 
